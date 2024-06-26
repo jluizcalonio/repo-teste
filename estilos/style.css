@@ -11,5 +11,6 @@ main {
     background-color: chocolate;
     width: 500px;
     padding: 10px;
-    box-shadow: 3px, 3px, 5px rgba(12, 59, 78, 0.822);
+    margin: auto;
+    box-shadow: 10px, 10px, 10px rgb(0, 3, 3);
 }
